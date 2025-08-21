@@ -7,7 +7,7 @@ Minimal, fast, and with a personal touch ✨.
 - `config.rasi` → main configuration file  
 - `themes/` → custom themes  
 
-![Rofi Preview](rofi/example.png)
+![Rofi Preview](rofi-cyber-dusk-vector-theme/screen-shoot.png)
 
 ## 🚀 Usage
 1. Clone this repo:
