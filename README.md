@@ -6,6 +6,7 @@ Minimalista, rápido y con un toque personal ✨.
 ## 📂 Contenido
 - `config.rasi` → archivo principal de configuración
 - `themes/` → mis temas personalizados
+![Vista previa de mi Rofi](rofi/example.png)
 
 ## 🚀 Uso
 1. Clona este repo:
