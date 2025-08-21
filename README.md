@@ -82,3 +82,8 @@ Includes modern plugins for **LSP, completion, snippets, Telescope, UI enhanceme
    :TSUpdate
    ```
 
+## 📜 License for Assets
+- Configuration files: MIT  
+- My custom images (e.g. those made in Inkscape): CC BY 4.0  
+- Screenshots may contain third-party trademarks or logos.
+  These are shown only for illustrative purposes and are **not covered by this repository’s license**.
